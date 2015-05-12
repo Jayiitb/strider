@@ -27,8 +27,6 @@ Strider is extremely customizable through plugins. Plugins can
 - create or modify user interfaces within Strider.
 - so much more! just use your imagination!
 
-For more details check out the [introductory chapter of the Strider Book][book-intro]
-
 ## README Contents
 
 - [General requirements](#general-requirements)
@@ -170,7 +168,7 @@ We are very responsive to Github Issues - please think of them as a message boar
 
 ### IRC Channel
 
-You can find us on irc.freenode.net in #strider
+You can find us on [irc.freenode.net in #strider][irc].
 
 If nobody is responding, don't leave immediately. Someone will eventually respond. If you don't want to wait please create a Github issue! Many Strider contributors don't use IRC at all, but will respond pretty quickly to new Github Issues.
 
@@ -219,3 +217,4 @@ LLC][maintainer]. For commercial support, customization, integration
 [nodejs]: http://nodejs.org/
 [npm]: https://docs.npmjs.com/getting-started/installing-node
 [ZenBoard]: https://www.zenhub.io/
+[irc]: https://www.irccloud.com/#!/ircs://irc.freenode.net:6697/%23strider
