@@ -114,6 +114,7 @@
     "strider-build-badge": "^0",
     "strider-cli": "^1.4.1",
     "strider-custom": "^0.5.3",
+    "strider-docker-runner": "^1.2.0",
     "strider-email-notifier": "^0.4.2",
     "strider-env": "^0.4.4",
     "strider-extension-loader": "^0.4.5",
